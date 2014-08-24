@@ -1,0 +1,16 @@
+{
+  "name": "adobe",
+  "version": "0.0.0",
+  "description": "Making a backbone.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~3.4.8",
+    "hbs": "~2.0.2",
+    "jade": "1.3.1"
+  }
+}
