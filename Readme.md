@@ -17,6 +17,6 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 ## Steps for running the Web App 
 
-	- Run this app with command "node new.js"
+>	- Run this app with command "node new.js"
 
 >	- Open http://127.0.0.1:8000 in browser to view the app.
